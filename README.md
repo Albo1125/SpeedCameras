@@ -12,9 +12,15 @@ ensure BritishRoadSigns
 
 4. The `BritishRoadSigns/stream/roadsigns` files come from [here](https://www.gta5-mods.com/misc/united-kingdom-road-signs) and have been added into FiveM streaming folder format for convenience. Optionally, you can customise this.
 5. The `BritishRoadSigns/stream/ymaps` ymap files by Albo1125 contain additional UK road sign placements to appropriately place speed limit signs and speed cameras for the default `cameras.json`. Optionally, you can customise this.
-5. Optionally, customise the SpeedCameras notifications whitelist in `vars.lua` and add identifiers. This only affects commands for use of police.
+5. Optionally, customise the SpeedCameras notifications whitelist in `vars.lua` and add identifiers. This affects all the below commands.
 6. Optionally, customise the speed camera locations and names in `cameras.json`.
 7. Optionally, customise the commands in `sv_SpeedCameras.lua`.
+
+## Commands
+* /speedcams - Toggle speed camera blips
+* /speedcamsub - Subscribe to speed camera hit notifications (there is a speeding tolerance of 12 MPH by default, so a driver would have to be travelling at 42 MPH in a 30 MPH limit to be flashed).
+* /speedcamunsub - Unsubscribe from speed camera hit notifications
+
 
 ## Improvements & Licencing
 Please view the license. Improvements and new feature additions are very welcome, please feel free to create a pull request. As a guideline, please do not release separate versions with minor modifications, but contribute to this repository directly. However, if you really do wish to release modified versions of my work, proper credit is always required and you should always link back to this original source and respect the licence.
