@@ -1,0 +1,1122 @@
+[
+    {
+        "Name": "El Rancho Blvd (Under Palomino Fwy)",
+        "X": 1214.44,
+        "Y": -1120.14,
+        "Z": 38.14,
+        "Direction": 34.55,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "El Rancho Blvd (Under Palomino Fwy) 2",
+        "X": 1231.56,
+        "Y": -1191.84,
+        "Z": 35.93,
+        "Direction": 195.87,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Mirror Park Blvd 1",
+        "X": 1195.88,
+        "Y": -677.58,
+        "Z": 60.52,
+        "Direction": 14.86,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Mirror Park Blvd 2",
+        "X": 1168.21,
+        "Y": -589.17,
+        "Z": 63.74,
+        "Direction": 188.49,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Mirror Park Blvd 3",
+        "X": 1046.9,
+        "Y": -205.91,
+        "Z": 69.94,
+        "Direction": 61.07,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Mirror Park Blvd 4",
+        "X": 1095.14,
+        "Y": -240.6,
+        "Z": 68.91,
+        "Direction": 252.34,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Popular Street 1",
+        "X": 780.9328,
+        "Y": -511.5374,
+        "Z": 35.16632,
+        "Direction": 18.22824,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Popular Street 2",
+        "X": 770.986,
+        "Y": -549.5035,
+        "Z": 32.97036,
+        "Direction": 179.7621,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Vespucci Boulevard 1",
+        "X": 573.915,
+        "Y": -1022.569,
+        "Z": 37.02813,
+        "Direction": 92.19765,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Vespucci Boulevard 2",
+        "X": 628.5483,
+        "Y": -1027.989,
+        "Z": 36.91687,
+        "Direction": 273.0026,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Strawberry Avenue 1",
+        "X": 207.2035,
+        "Y": -1190.236,
+        "Z": 29.2796,
+        "Direction": 183.7922,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Strawberry Avenue 2",
+        "X": 224.579,
+        "Y": -1170.749,
+        "Z": 29.32119,
+        "Direction": 2.183283,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Strawberry Avenue 3",
+        "X": 329.1154,
+        "Y": -762.6335,
+        "Z": 29.33111,
+        "Direction": 345.4522,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Strawberry Avenue 4",
+        "X": 317.5814,
+        "Y": -755.1024,
+        "Z": 29.33712,
+        "Direction": 161.1808,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Elgin Avenue 1",
+        "X": 146.417,
+        "Y": -913.5624,
+        "Z": 30.19457,
+        "Direction": 340.9973,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Elgin Avenue 2",
+        "X": 127.6164,
+        "Y": -915.7463,
+        "Z": 30.08603,
+        "Direction": 165.5635,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Power Street 1",
+        "X": 19.0666,
+        "Y": -820.3839,
+        "Z": 31.14221,
+        "Direction": 340.8537,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Power Street 2",
+        "X": -4.164617,
+        "Y": -859.0937,
+        "Z": 30.45194,
+        "Direction": 159.4374,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Power Street 3",
+        "X": 150.9977,
+        "Y": -459.3854,
+        "Z": 41.94619,
+        "Direction": 347.1391,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Power Street 4",
+        "X": 121.3389,
+        "Y": -503.0349,
+        "Z": 43.20597,
+        "Direction": 155.8951,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Alta Street 1",
+        "X": -284.4311,
+        "Y": -1277.16,
+        "Z": 30.62358,
+        "Direction": 178.2423,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Alta Street 2",
+        "X": -269.5478,
+        "Y": -1213.17,
+        "Z": 25.2038,
+        "Direction": 354.2102,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Capital Boulevard 1",
+        "X": 951.6559,
+        "Y": -1431.419,
+        "Z": 31.41298,
+        "Direction": 87.34575,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Capital Boulevard 1",
+        "X": 987.6015,
+        "Y": -1441.824,
+        "Z": 32.25427,
+        "Direction": 269.1628,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "San Andreas Avenue 1",
+        "X": -379.5362,
+        "Y": -652.6351,
+        "Z": 30.78843,
+        "Direction": 92.00899,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "San Andreas Avenue 2",
+        "X": -342.5635,
+        "Y": -663.6484,
+        "Z": 32.18334,
+        "Direction": 269.8904,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Portola Drive 1",
+        "X": -675.3704,
+        "Y": -257.9115,
+        "Z": 36.45125,
+        "Direction": 31.06153,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Portola Drive 2",
+        "X": -683.138,
+        "Y": -272.8119,
+        "Z": 36.24504,
+        "Direction": 217.8474,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "West Eclipse Boulevard 1",
+        "X": -1955.567,
+        "Y": -182.4783,
+        "Z": 32.74806,
+        "Direction": 254.2184,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "West Eclipse Boulevard 2",
+        "X": -2023.274,
+        "Y": -164.3687,
+        "Z": 27.60388,
+        "Direction": 105.7885,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Boulevard Del Perro 1",
+        "X": -1250.46,
+        "Y": -309.7187,
+        "Z": 37.29953,
+        "Direction": 114.9593,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Boulevard Del Perro 2",
+        "X": -1215.254,
+        "Y": -309.968,
+        "Z": 37.81921,
+        "Direction": 294.513,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Palomino Avenue 1",
+        "X": -627.0939,
+        "Y": -598.0063,
+        "Z": 33.92281,
+        "Direction": 359.3621,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Palomino Avenue 1",
+        "X": -642.4873,
+        "Y": -601.2661,
+        "Z": 33.74799,
+        "Direction": 175.7214,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "West Joshua Road 1",
+        "X": 539.3558,
+        "Y": 3506.361,
+        "Z": 34.18463,
+        "Direction": 102.2047,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "West Joshua Road 2",
+        "X": 587.8434,
+        "Y": 3507.96,
+        "Z": 34.15952,
+        "Direction": 279.7151,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Route 68 1",
+        "X": 1099.252,
+        "Y": 2690.439,
+        "Z": 38.70778,
+        "Direction": 91.98779,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Route 68 2",
+        "X": 641.3927,
+        "Y": 2696.49,
+        "Z": 40.92836,
+        "Direction": 271.4774,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Panorama Drive 1",
+        "X": 1769.991,
+        "Y": 3386.706,
+        "Z": 39.21634,
+        "Direction": 28.19045,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "East Joshua Road 1",
+        "X": 2573.231,
+        "Y": 4241.887,
+        "Z": 41.64052,
+        "Direction": 146.4827,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "East Joshua Road 2",
+        "X": 2436.689,
+        "Y": 3974.417,
+        "Z": 36.72883,
+        "Direction": 329.0886,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Alhambra Drive 1",
+        "X": 1757.759,
+        "Y": 3610.052,
+        "Z": 34.80323,
+        "Direction": 119.4762,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Alhambra Drive 2",
+        "X": 1773.756,
+        "Y": 3612.151,
+        "Z": 34.62381,
+        "Direction": 302.1666,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Grapeseed Avenue 1",
+        "X": 1670.907,
+        "Y": 4815.524,
+        "Z": 42.01191,
+        "Direction": 181.0381,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Grapeseed Avenue 2",
+        "X": 1697.686,
+        "Y": 4715.104,
+        "Z": 42.43218,
+        "Direction": 18.64782,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Senora Freeway 5",
+        "X": 2848.616,
+        "Y": 4286.554,
+        "Z": 50.21991,
+        "Direction": 18.41201,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Senora Freeway 6",
+        "X": 2747.564,
+        "Y": 4506.739,
+        "Z": 46.87824,
+        "Direction": 193.1884,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Senora Freeway 7",
+        "X": 2664.142,
+        "Y": 5020.131,
+        "Z": 44.83219,
+        "Direction": 12.74167,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Senora Freeway 8",
+        "X": 2580.459,
+        "Y": 5209.284,
+        "Z": 44.74221,
+        "Direction": 193.2758,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Senora Freeway 9",
+        "X": 2078.973,
+        "Y": 6055.414,
+        "Z": 49.62246,
+        "Direction": 230.408,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Great Ocean Highway 1",
+        "X": 998.696,
+        "Y": 6492.902,
+        "Z": 20.97707,
+        "Direction": 95.4313,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 2",
+        "X": 614.6862,
+        "Y": 6524.904,
+        "Z": 28.21836,
+        "Direction": 255.7288,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Senora Freeway 10",
+        "X": 1885.774,
+        "Y": 6350.025,
+        "Z": 41.88807,
+        "Direction": 73.15304,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Great Ocean Highway 4",
+        "X": 40.36956,
+        "Y": 6427.587,
+        "Z": 31.37282,
+        "Direction": 134.1105,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Great Ocean Highway 5",
+        "X": -18.5713,
+        "Y": 6349.559,
+        "Z": 31.3214,
+        "Direction": 315.3962,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Paleto Boulevard 1",
+        "X": -231.8584,
+        "Y": 6306.658,
+        "Z": 31.44489,
+        "Direction": 138.8562,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Paleto Boulevard 2",
+        "X": -252.8482,
+        "Y": 6277.372,
+        "Z": 31.41,
+        "Direction": 314.671,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Great Ocean Highway 6",
+        "X": -921.9448,
+        "Y": 5412.957,
+        "Z": 37.42112,
+        "Direction": 286.3373,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 7",
+        "X": -1792.566,
+        "Y": 4733.677,
+        "Z": 57.04657,
+        "Direction": 135.7878,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 8",
+        "X": -1754.703,
+        "Y": 4753.998,
+        "Z": 57.18865,
+        "Direction": 310.5675,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 9",
+        "X": -2568.152,
+        "Y": 3384.603,
+        "Z": 13.30055,
+        "Direction": 167.2139,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 10",
+        "X": -2601.607,
+        "Y": 2972.038,
+        "Z": 16.6741,
+        "Direction": 349.6211,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 11",
+        "X": -3052.885,
+        "Y": 1414.253,
+        "Z": 22.46716,
+        "Direction": 147.7377,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 12",
+        "X": -3131.82,
+        "Y": 1008.606,
+        "Z": 18.22764,
+        "Direction": 334.1646,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 13",
+        "X": -3161.917,
+        "Y": 967.9343,
+        "Z": 15.16121,
+        "Direction": 172.3281,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 14",
+        "X": -3029.77,
+        "Y": 278.9161,
+        "Z": 15.53467,
+        "Direction": 169.6189,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 15",
+        "X": -2917.442,
+        "Y": 86.60427,
+        "Z": 13.69523,
+        "Direction": 66.06107,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 16",
+        "X": -2555.774,
+        "Y": -163.2075,
+        "Z": 20.41784,
+        "Direction": 55.9294,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 16",
+        "X": -2449.893,
+        "Y": -238.0022,
+        "Z": 16.64569,
+        "Direction": 241.9495,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Great Ocean Highway 17",
+        "X": -1830.838,
+        "Y": -600.0135,
+        "Z": 11.35268,
+        "Direction": 243.4519,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "Del Perro Freeway 1",
+        "X": -471.2105,
+        "Y": -530.3774,
+        "Z": 25.33679,
+        "Direction": 274.02,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Del Perro Freeway 2",
+        "X": -846.8297,
+        "Y": -504.895,
+        "Z": 23.63694,
+        "Direction": 105.8626,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Las Lagunas Boulevard 1",
+        "X": -215.7083,
+        "Y": -560.1213,
+        "Z": 34.66872,
+        "Direction": 337.9596,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Las Lagunas Boulevard 2",
+        "X": -222.1088,
+        "Y": -536.9736,
+        "Z": 34.74735,
+        "Direction": 164.3518,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Davis Avenue 1",
+        "X": 209.5195,
+        "Y": -1569.651,
+        "Z": 29.30664,
+        "Direction": 118.751,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Davis Avenue 2",
+        "X": 255.4012,
+        "Y": -1557.151,
+        "Z": 29.34154,
+        "Direction": 299.5038,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "New Empire Way 1",
+        "X": -971.7329,
+        "Y": -2433.876,
+        "Z": 13.81812,
+        "Direction": 150.1967,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Roy Lowenstein Boulevard 1",
+        "X": 413.5508,
+        "Y": -1715.469,
+        "Z": 29.30857,
+        "Direction": 320.847,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Roy Lowenstein Boulevard 2",
+        "X": 409.8016,
+        "Y": -1679.353,
+        "Z": 29.29813,
+        "Direction": 144.475,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Elgin Avenue 3",
+        "X": 54.23959,
+        "Y": -1215.799,
+        "Z": 29.33702,
+        "Direction": 183.3113,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Elgin Avenue 4",
+        "X": 69.13046,
+        "Y": -1166.621,
+        "Z": 29.32084,
+        "Direction": 1.723175,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Popular Street 3",
+        "X": 801.7352,
+        "Y": -1201.47,
+        "Z": 27.1244,
+        "Direction": 3.041397,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Popular Street 4",
+        "X": 792.1102,
+        "Y": -1352.063,
+        "Z": 26.35617,
+        "Direction": 179.3506,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Bay City Incline 1",
+        "X": -1879.759,
+        "Y": -475.1586,
+        "Z": 24.52174,
+        "Direction": 235.6157,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Bay City Incline 2",
+        "X": -1877.786,
+        "Y": -470.2196,
+        "Z": 24.48218,
+        "Direction": 56.03599,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Vespucci Boulevard 1",
+        "X": -139.6808,
+        "Y": -915.73,
+        "Z": 29.27518,
+        "Direction": 249.5403,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Vespucci Boulevard 2",
+        "X": -113.5527,
+        "Y": -910.8494,
+        "Z": 29.36602,
+        "Direction": 64.2709,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Strawberry Avenue 5",
+        "X": 34.89942,
+        "Y": -1524.743,
+        "Z": 29.3408,
+        "Direction": 141.5118,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Strawberry Avenue 6",
+        "X": 96.70992,
+        "Y": -1476.603,
+        "Z": 29.31634,
+        "Direction": 322.3405,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Innocence Boulevard 1",
+        "X": -497.7372,
+        "Y": -1260.069,
+        "Z": 25.26208,
+        "Direction": 158.2251,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Innocence Boulevard 2",
+        "X": -490.1898,
+        "Y": -1270.027,
+        "Z": 25.85995,
+        "Direction": 341.9749,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "South Rockford Drive 1",
+        "X": -894.5693,
+        "Y": -909.1797,
+        "Z": 15.79655,
+        "Direction": 224.6613,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "South Rockford Drive 2",
+        "X": -978.7784,
+        "Y": -820.2532,
+        "Z": 15.69551,
+        "Direction": 56.94685,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Abe Milton Parkway 1",
+        "X": -388.5695,
+        "Y": -308.2064,
+        "Z": 33.55234,
+        "Direction": 235.6994,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Abe Milton Parkway 2",
+        "X": -445.6695,
+        "Y": -171.3186,
+        "Z": 37.55362,
+        "Direction": 26.31609,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "San Andreas Avenue 3",
+        "X": 686.0009,
+        "Y": -845.8436,
+        "Z": 43.2753,
+        "Direction": 92.44102,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "San Andreas Avenue 4",
+        "X": 708.5912,
+        "Y": -857.327,
+        "Z": 43.40538,
+        "Direction": 270.481,
+        "SpeedLimit": 50
+    },
+    {
+        "Name": "La Puerta Freeway 1",
+        "X": -421.6892,
+        "Y": -1024.088,
+        "Z": 25.17348,
+        "Direction": 171.3859,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "La Puerta Freeway 2",
+        "X": -388.9254,
+        "Y": -836.6932,
+        "Z": 38.71237,
+        "Direction": 0.3173262,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Alta Street 3",
+        "X": -311.5351,
+        "Y": -1561.021,
+        "Z": 24.71956,
+        "Direction": 148.8487,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Alta Street 4",
+        "X": -295.1037,
+        "Y": -1558.1,
+        "Z": 25.21601,
+        "Direction": 335.9445,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Olympic Freeway 1",
+        "X": 595.5381,
+        "Y": -1220.442,
+        "Z": 41.10815,
+        "Direction": 271.557,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Olympic Freeway 2",
+        "X": 394.2598,
+        "Y": -1182.893,
+        "Z": 40.03686,
+        "Direction": 91.99736,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Palomino Freeway 1",
+        "X": 2415.693,
+        "Y": -250.5699,
+        "Z": 85.27197,
+        "Direction": 333.982,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Palomino Freeway 2",
+        "X": 2164.685,
+        "Y": -529.9751,
+        "Z": 94.00441,
+        "Direction": 132.206,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Senora Freeway 11",
+        "X": 2155.807,
+        "Y": 2726.807,
+        "Z": 47.94656,
+        "Direction": 128.9303,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Los Santos Freeway 5",
+        "X": 1621.36,
+        "Y": 1092.218,
+        "Z": 81.80849,
+        "Direction": 336.2471,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Vespucci Boulevard 3",
+        "X": 298.7943,
+        "Y": -1040.512,
+        "Z": 29.24155,
+        "Direction": 94.30325,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Vespucci Boulevard 4",
+        "X": 337.1769,
+        "Y": -1058.001,
+        "Z": 29.35663,
+        "Direction": 271.2433,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Vinewood Park Drive 1",
+        "X": 949.8727,
+        "Y": 124.2882,
+        "Z": 80.84234,
+        "Direction": 319.1397,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Vinewood Park Drive 2",
+        "X": 924.4174,
+        "Y": 101.9313,
+        "Z": 79.10843,
+        "Direction": 141.3319,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Vinewood Boulevard 1",
+        "X": 291.3659,
+        "Y": 170.4826,
+        "Z": 104.2797,
+        "Direction": 70.35252,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Vinewood Boulevard 2",
+        "X": 304.1376,
+        "Y": 150.1637,
+        "Z": 103.9117,
+        "Direction": 250.9064,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Great Ocean Highway 18",
+        "X": -2010.57,
+        "Y": -422.8733,
+        "Z": 11.51784,
+        "Direction": 51.11645,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Palomino Avenue 3",
+        "X": -670.618,
+        "Y": -1063.75,
+        "Z": 16.36144,
+        "Direction": 306.0147,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Palomino Avenue 4",
+        "X": -703.2359,
+        "Y": -1068.734,
+        "Z": 13.87274,
+        "Direction": 120.278,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Bay City Avenue 1",
+        "X": -1077.868,
+        "Y": -1485.974,
+        "Z": 5.152822,
+        "Direction": 223.6776,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Bay City Avenue 2",
+        "X": -1021.516,
+        "Y": -1556.376,
+        "Z": 5.166197,
+        "Direction": 32.83402,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "La Puerta Freeway 3",
+        "X": 582.9836,
+        "Y": -2656.705,
+        "Z": 42.29914,
+        "Direction": 97.71984,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "La Puerta Freeway 4",
+        "X": 635.8746,
+        "Y": -2662.211,
+        "Z": 46.64613,
+        "Direction": 281.3603,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Popular Street 5",
+        "X": 744.296,
+        "Y": -2279.229,
+        "Z": 28.86298,
+        "Direction": 174.9832,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Popular Street 6",
+        "X": 779.5314,
+        "Y": -2159.842,
+        "Z": 29.33805,
+        "Direction": 352.0137,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Senora Road 1",
+        "X": 1290.894,
+        "Y": 1347.432,
+        "Z": 105.0349,
+        "Direction": 0.2182733,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Senora Road 2",
+        "X": 1293.085,
+        "Y": 1184.969,
+        "Z": 106.9788,
+        "Direction": 178.2012,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Route 68 3",
+        "X": -1174.578,
+        "Y": 2609.328,
+        "Z": 15.17006,
+        "Direction": 306.028,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Route 68 4",
+        "X": -1187.131,
+        "Y": 2606.135,
+        "Z": 15.02644,
+        "Direction": 132.612,
+        "SpeedLimit": 60
+    },
+    {
+        "Name": "Palomino Freeway 5",
+        "X": 2097.593,
+        "Y": 1382.175,
+        "Z": 75.55544,
+        "Direction": 212.2605,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Elgin Avenue 5",
+        "X": 527.5374,
+        "Y": -238.6051,
+        "Z": 49.37934,
+        "Direction": 0.3086132,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "Elgin Avenue 6",
+        "X": 512.4647,
+        "Y": -208.382,
+        "Z": 51.25496,
+        "Direction": 191.8193,
+        "SpeedLimit": 40
+    },
+    {
+        "Name": "West Eclipse Boulevard 3",
+        "X": -939.3598,
+        "Y": 242.0645,
+        "Z": 70.1676,
+        "Direction": 243.0177,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "West Eclipse Boulevard 4",
+        "X": -979.2961,
+        "Y": 270.816,
+        "Z": 68.48929,
+        "Direction": 81.87282,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Los Santos Freeway 1",
+        "X": 793.9617,
+        "Y": 9.226693,
+        "Z": 63.67215,
+        "Direction": 328.7781,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Los Santos Freeway 2",
+        "X": 1286.668,
+        "Y": 591.3182,
+        "Z": 80.33643,
+        "Direction": 129.8839,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Del Perro Freeway 3",
+        "X": 865.2039,
+        "Y": -723.0493,
+        "Z": 42.46794,
+        "Direction": 213.3636,
+        "SpeedLimit": 70
+    },
+    {
+        "Name": "Hawick Avenue 1",
+        "X": -151.0408,
+        "Y": -75.21616,
+        "Z": 54.41107,
+        "Direction": 65.08842,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Hawick Avenue 2",
+        "X": -185.9295,
+        "Y": -79.78654,
+        "Z": 52.20085,
+        "Direction": 249.5115,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "East Eclipse Boulevard 1",
+        "X": -337.6268,
+        "Y": 254.4241,
+        "Z": 85.87281,
+        "Direction": 108.4067,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "East Eclipse Boulevard 2",
+        "X": -352.7929,
+        "Y": 238.4727,
+        "Z": 85.17776,
+        "Direction": 284.2993,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Dorset Drive 1",
+        "X": -398.0725,
+        "Y": -377.7693,
+        "Z": 32.08409,
+        "Direction": 103.8098,
+        "SpeedLimit": 30
+    },
+    {
+        "Name": "Dorset Drive 2",
+        "X": -418.7704,
+        "Y": -390.5498,
+        "Z": 32.57313,
+        "Direction": 255.2358,
+        "SpeedLimit": 30
+    }
+]
